@@ -1,0 +1,31 @@
+    INLET
+    {
+          type escape;
+          e    1.00;
+          mu   0.0;
+    }
+    OUTLET
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    INLETWALL
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    OUTLETWALL
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    BENDWALL
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    

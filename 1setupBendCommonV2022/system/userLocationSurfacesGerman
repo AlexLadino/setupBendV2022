@@ -1,0 +1,3383 @@
+        inlet5d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0004 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0009 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0013 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0017 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0021 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0026 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0030 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0034 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0038 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet5d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0043 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0047 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0051 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0055 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0060 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0064 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0068 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0072 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0077 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0081 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0085 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0089 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0094 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0098 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0102 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0106 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0111 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0115 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0119 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0123 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet4d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0128 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0132 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0136 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0140 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0145 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0149 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0153 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0157 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0162 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0166 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0170 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0174 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0179 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0183 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0187 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0191 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0196 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0200 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0204 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0208 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet3d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0213 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0217 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0221 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0226 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0230 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0234 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0238 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0243 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0247 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0251 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0255 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0260 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0264 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0268 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0272 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0277 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0281 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0285 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0289 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0294 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet2d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0298 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0302 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0306 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0311 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0315 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0319 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0323 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0328 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0332 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0336 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0340 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0345 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0349 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0353 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0357 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0362 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0366 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0370 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0374 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0379 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet1d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0383 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0387 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0391 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0396 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0400 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0404 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0408 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0413 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0417 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0421 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0426 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0430 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0434 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0438 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0443 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0447 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0451 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0455 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0460 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0464 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        inlet0d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0468 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend0
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0000 -0.0106 0.0000);
+				normalVector   		(1.0000 0.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend1
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0002 -0.0106 0.0000);
+				normalVector   		(0.9998 -0.0175 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend2
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0004 -0.0106 0.0000);
+				normalVector   		(0.9994 -0.0349 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend3
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0006 -0.0106 0.0000);
+				normalVector   		(0.9986 -0.0523 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend4
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0007 -0.0106 0.0000);
+				normalVector   		(0.9976 -0.0698 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend5
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0009 -0.0106 0.0000);
+				normalVector   		(0.9962 -0.0872 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend6
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0011 -0.0106 0.0000);
+				normalVector   		(0.9945 -0.1045 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend7
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0013 -0.0106 0.0000);
+				normalVector   		(0.9925 -0.1219 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend8
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0015 -0.0105 0.0000);
+				normalVector   		(0.9903 -0.1392 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend9
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0017 -0.0105 0.0000);
+				normalVector   		(0.9877 -0.1564 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend10
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0018 -0.0105 0.0000);
+				normalVector   		(0.9848 -0.1736 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend11
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0020 -0.0104 0.0000);
+				normalVector   		(0.9816 -0.1908 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend12
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0022 -0.0104 0.0000);
+				normalVector   		(0.9781 -0.2079 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend13
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0024 -0.0104 0.0000);
+				normalVector   		(0.9744 -0.2250 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend14
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0026 -0.0103 0.0000);
+				normalVector   		(0.9703 -0.2419 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend15
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0028 -0.0103 0.0000);
+				normalVector   		(0.9659 -0.2588 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend16
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0029 -0.0102 0.0000);
+				normalVector   		(0.9613 -0.2756 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend17
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0031 -0.0102 0.0000);
+				normalVector   		(0.9563 -0.2924 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend18
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0033 -0.0101 0.0000);
+				normalVector   		(0.9511 -0.3090 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend19
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0035 -0.0101 0.0000);
+				normalVector   		(0.9455 -0.3256 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend20
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0036 -0.0100 0.0000);
+				normalVector   		(0.9397 -0.3420 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend21
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0038 -0.0099 0.0000);
+				normalVector   		(0.9336 -0.3584 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend22
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0040 -0.0099 0.0000);
+				normalVector   		(0.9272 -0.3746 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend23
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0042 -0.0098 0.0000);
+				normalVector   		(0.9205 -0.3907 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend24
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0043 -0.0097 0.0000);
+				normalVector   		(0.9135 -0.4067 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend25
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0045 -0.0096 0.0000);
+				normalVector   		(0.9063 -0.4226 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend26
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0047 -0.0096 0.0000);
+				normalVector   		(0.8988 -0.4384 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend27
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0048 -0.0095 0.0000);
+				normalVector   		(0.8910 -0.4540 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend28
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0050 -0.0094 0.0000);
+				normalVector   		(0.8829 -0.4695 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend29
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0052 -0.0093 0.0000);
+				normalVector   		(0.8746 -0.4848 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend30
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0053 -0.0092 0.0000);
+				normalVector   		(0.8660 -0.5000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend31
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0055 -0.0091 0.0000);
+				normalVector   		(0.8572 -0.5150 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend32
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0056 -0.0090 0.0000);
+				normalVector   		(0.8480 -0.5299 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend33
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0058 -0.0089 0.0000);
+				normalVector   		(0.8387 -0.5446 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend34
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0059 -0.0088 0.0000);
+				normalVector   		(0.8290 -0.5592 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend35
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0061 -0.0087 0.0000);
+				normalVector   		(0.8192 -0.5736 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend36
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0063 -0.0086 0.0000);
+				normalVector   		(0.8090 -0.5878 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend37
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0064 -0.0085 0.0000);
+				normalVector   		(0.7986 -0.6018 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend38
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0065 -0.0084 0.0000);
+				normalVector   		(0.7880 -0.6157 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend39
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0067 -0.0083 0.0000);
+				normalVector   		(0.7771 -0.6293 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend40
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0068 -0.0081 0.0000);
+				normalVector   		(0.7660 -0.6428 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend41
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0070 -0.0080 0.0000);
+				normalVector   		(0.7547 -0.6561 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend42
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0071 -0.0079 0.0000);
+				normalVector   		(0.7431 -0.6691 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend43
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0073 -0.0078 0.0000);
+				normalVector   		(0.7314 -0.6820 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend44
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0074 -0.0077 0.0000);
+				normalVector   		(0.7193 -0.6947 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend45
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0075 -0.0075 0.0000);
+				normalVector   		(0.7071 -0.7071 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend46
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0077 -0.0074 0.0000);
+				normalVector   		(0.6947 -0.7193 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend47
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0078 -0.0073 0.0000);
+				normalVector   		(0.6820 -0.7314 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend48
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0079 -0.0071 0.0000);
+				normalVector   		(0.6691 -0.7431 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend49
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0080 -0.0070 0.0000);
+				normalVector   		(0.6561 -0.7547 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend50
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0081 -0.0068 0.0000);
+				normalVector   		(0.6428 -0.7660 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend51
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0083 -0.0067 0.0000);
+				normalVector   		(0.6293 -0.7771 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend52
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0084 -0.0065 0.0000);
+				normalVector   		(0.6157 -0.7880 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend53
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0085 -0.0064 0.0000);
+				normalVector   		(0.6018 -0.7986 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend54
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0086 -0.0063 0.0000);
+				normalVector   		(0.5878 -0.8090 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend55
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0087 -0.0061 0.0000);
+				normalVector   		(0.5736 -0.8192 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend56
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0088 -0.0059 0.0000);
+				normalVector   		(0.5592 -0.8290 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend57
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0089 -0.0058 0.0000);
+				normalVector   		(0.5446 -0.8387 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend58
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0090 -0.0056 0.0000);
+				normalVector   		(0.5299 -0.8480 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend59
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0091 -0.0055 0.0000);
+				normalVector   		(0.5150 -0.8572 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend60
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0092 -0.0053 0.0000);
+				normalVector   		(0.5000 -0.8660 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend61
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0093 -0.0052 0.0000);
+				normalVector   		(0.4848 -0.8746 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend62
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0094 -0.0050 0.0000);
+				normalVector   		(0.4695 -0.8829 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend63
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0095 -0.0048 0.0000);
+				normalVector   		(0.4540 -0.8910 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend64
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0096 -0.0047 0.0000);
+				normalVector   		(0.4384 -0.8988 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend65
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0096 -0.0045 0.0000);
+				normalVector   		(0.4226 -0.9063 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend66
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0097 -0.0043 0.0000);
+				normalVector   		(0.4067 -0.9135 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend67
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0098 -0.0042 0.0000);
+				normalVector   		(0.3907 -0.9205 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend68
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0099 -0.0040 0.0000);
+				normalVector   		(0.3746 -0.9272 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend69
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0099 -0.0038 0.0000);
+				normalVector   		(0.3584 -0.9336 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend70
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0100 -0.0036 0.0000);
+				normalVector   		(0.3420 -0.9397 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend71
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0101 -0.0035 0.0000);
+				normalVector   		(0.3256 -0.9455 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend72
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0101 -0.0033 0.0000);
+				normalVector   		(0.3090 -0.9511 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend73
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0102 -0.0031 0.0000);
+				normalVector   		(0.2924 -0.9563 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend74
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0102 -0.0029 0.0000);
+				normalVector   		(0.2756 -0.9613 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend75
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0103 -0.0028 0.0000);
+				normalVector   		(0.2588 -0.9659 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend76
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0103 -0.0026 0.0000);
+				normalVector   		(0.2419 -0.9703 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend77
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0104 -0.0024 0.0000);
+				normalVector   		(0.2250 -0.9744 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend78
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0104 -0.0022 0.0000);
+				normalVector   		(0.2079 -0.9781 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend79
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0104 -0.0020 0.0000);
+				normalVector   		(0.1908 -0.9816 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend80
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0105 -0.0018 0.0000);
+				normalVector   		(0.1736 -0.9848 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend81
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0105 -0.0017 0.0000);
+				normalVector   		(0.1564 -0.9877 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend82
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0105 -0.0015 0.0000);
+				normalVector   		(0.1392 -0.9903 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend83
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0013 0.0000);
+				normalVector   		(0.1219 -0.9925 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend84
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0011 0.0000);
+				normalVector   		(0.1045 -0.9945 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend85
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0009 0.0000);
+				normalVector   		(0.0872 -0.9962 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend86
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0007 0.0000);
+				normalVector   		(0.0698 -0.9976 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend87
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0006 0.0000);
+				normalVector   		(0.0523 -0.9986 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend88
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0004 0.0000);
+				normalVector   		(0.0349 -0.9994 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend89
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0002 0.0000);
+				normalVector   		(0.0175 -0.9998 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        bend90
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 -0.0000 0.0000);
+				normalVector   		(0.0000 -1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0004 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0009 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0013 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0017 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0021 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0026 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0030 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0034 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0038 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0043 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0047 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0051 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0055 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0060 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0064 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0068 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0072 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0077 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet0d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0081 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0085 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0089 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0094 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0098 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0102 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0106 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0111 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0115 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0119 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0123 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0128 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0132 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0136 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0140 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0145 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0149 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0153 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0157 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0162 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet1d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0166 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0170 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0174 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0179 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0183 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0187 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0191 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0196 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0200 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0204 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0208 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0213 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0217 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0221 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0226 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0230 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0234 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0238 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0243 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0247 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet2d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0251 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0255 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d05D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0260 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d10D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0264 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d15D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0268 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d20D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0272 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d25D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0277 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d30D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0281 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d35D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0285 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d40D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0289 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d45D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0294 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d50D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0298 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d55D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0302 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d60D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0306 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d65D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0311 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d70D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0315 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d75D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0319 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d80D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0323 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d85D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0328 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d90D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0332 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet3d95D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0336 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        outlet4d00D
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(-0.0106 0.0340 0.0000);
+				normalVector   		(0.0000 1.0000 0.0000);
+			}
+			interpolate         	true;
+		}
+
+        normal_z
+		{
+			type               		cuttingPlane;
+			planeType          		pointAndNormal;
+			pointAndNormalDict
+			{
+				basePoint      		(0.0000 0.0000 0.0000);
+				normalVector   		(0.0000 0.0000 1.0000);
+			}
+			interpolate         	true;
+		}

@@ -1,0 +1,168 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  4.x                                   |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "constant";
+    object      kinematicCloud2Properties;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+#include        "./system/userConfigValues"
+
+solution
+{
+    active          true;		// true/false Activate/de-activate particle cloud 
+    coupled         true;     	// false: One way ,true: Two way coupling
+    transient       yes;      	// Trasient/steady state solution (?)
+    // cellValueSourceCorrection: Enable/disable momentum correction of 
+    // momentum transferred to Eulerian phase
+    cellValueSourceCorrection on; 
+    maxCo           0.3; 		// maxCo for move particles
+
+    // interpolation schemes for particle interpolation
+    interpolationSchemes      
+    {
+        rho             cell;
+        U               cellPoint;
+        mu              cell;
+        DUcDt           cell;		// For pressureGradient subModel    
+        // curlUcDt        cell;	// For SaffmanMeiLiftForce subModel
+    }
+
+    integrationSchemes
+    {
+        U               Euler;	// Euler, analytical
+    }
+
+    sourceTerms
+    {
+        schemes
+        {
+            U           semiImplicit 1; // explicit 1, semiImplicit 1
+        }
+    }
+}
+
+constantProperties
+{
+    rho0            2469;	// particle density
+    youngsModulus   1.3e5;   	// particle young modulus
+    poissonsRatio   0.35;     	// particle Poisson Ratio
+}
+
+// subModels. See lagrangian/intermediate/submodels/
+subModels
+{
+    particleForces
+    {
+            #include    "./constant/userParticleForces"
+    }
+
+    injectionModels
+    {     
+		model1
+		{
+			// Size distribution model see: lagrangian/distributionModels
+			// rho0 = 2469; mass loading = 0.2; alphaP = 9.60e-5; St+ = 74 (StBulk = 6.06); => dp = 1.891e-5 
+			
+			type             		patchFlowRateInjection;
+			patchName            	INLET;   
+			patch            		INLET;
+			massFlowRate		0;	// dummy var OF 5.x
+			duration             	$valDuration;	// Total duration of particle injection        
+			concentration        	27112204258;	// alphaP/Volp                  
+			parcelConcentration  	1;				// Dejarlo en 1
+			meanParticleDiameter 	1.891E-05;  		
+			flowRateProfile 		constant 1;		// Dummy dejarlo en 1
+			parcelBasisType  		fixed; 			// number, mass, fixed (?)	
+			massTotal        		0;     			// unused when parcelBasisType=fixed
+			nParticle       		1;  			// number of particle per parcel
+			SOI              		$valSOI;    	// Start-Of-Injection time
+			randomise       		true;
+			
+			sizeDistribution
+			{
+				type        fixedValue;	// uniform, normal, multiNormal, general
+				fixedValueDistribution
+				{
+					value   1.891E-05;
+				}                
+			}
+		}
+	}
+	
+    dispersionModel $valDispersionModel; 
+
+    patchInteractionModel localInteraction; // standardWallInteraction;
+
+    /*
+    standardWallInteractionCoeffs
+    {
+        type rebound;
+        e    0.97;
+        mu   0.09;
+    }
+      */
+
+    localInteractionCoeffs
+    {
+        patches
+        (
+			#include "./constant/userLocalInteractionData"
+        );
+      }
+
+    surfaceFilmModel none;
+
+    stochasticCollisionModel none;
+    
+    collisionModel none;    
+
+    pairCollisionCoeffs
+    {
+        maxInteractionDistance  0.00007;
+
+        writeReferredParticleCloud no;
+
+        pairModel pairSpringSliderDashpot;
+
+        pairSpringSliderDashpotCoeffs
+        {
+            useEquivalentSize   no;
+            alpha               0.12;
+            b                   1.5;
+            mu                  0.52;
+            cohesionEnergyDensity 0;
+            collisionResolutionSteps 12;
+        };
+        
+        wallModel wallSpringSliderDashpot;
+
+        wallSpringSliderDashpotCoeffs
+        {
+            useEquivalentSize no;
+            collisionResolutionSteps 12;
+            youngsModulus   1e10;
+            poissonsRatio   0.23;
+            alpha           0.12;
+            b               1.5;
+            mu              0.43;
+            cohesionEnergyDensity 0;
+        };
+    }
+}
+
+cloudFunctions
+{
+	#include "./constant/cloudFunctions"
+}
+
+// ************************************************************************* //

@@ -1,0 +1,200 @@
+    INLET
+    {
+          type escape;
+          e    1.00;
+          mu   0.0;
+    }
+    OUTLET
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    INLETWALL
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    OUTLETWALL
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C1
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C2
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C3
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C4
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C5
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C6
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C7
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R1
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R2
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R3
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R4
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R5
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R6
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R7
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    R8
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C1U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C1D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C2U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C2D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C3U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C3D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C4U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C4D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C5U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C5D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C6U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C6D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C7U
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    C7D
+    {
+          type stick;
+          e    1.00;
+          mu   0.0;
+    }
+    
+    

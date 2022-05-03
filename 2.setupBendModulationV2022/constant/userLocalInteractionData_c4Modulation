@@ -1,0 +1,102 @@
+C1
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C2
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C3
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+R1
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+R2
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+R3
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+R4
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C1U
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C2U
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C3U
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C3D
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C2D
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+C1D
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+INLETWALL
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+OUTLETWALL
+{
+    type rebound;
+    e    1.00;
+    mu   0.0;
+}
+INLET
+{
+    type escape;
+    e    1.00;
+    mu   0.0;
+}
+OUTLET
+{
+    type escape;
+    e    1.00;
+    mu   0.0;
+}            

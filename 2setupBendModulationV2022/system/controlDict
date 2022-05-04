@@ -82,6 +82,7 @@ functions
       #include "integralDissipation1"            
       #include "monitorTurbulenceCriterion"
       #include "monitorSamples1"      
+     	#include "monitorSurfaces1"
       #include "monitorSamplesTKEConvectionTKEDissipationTKE"
       #include "fieldAverage1"
 }

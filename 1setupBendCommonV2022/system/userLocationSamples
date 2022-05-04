@@ -1,0 +1,162 @@
+
+    inlet0D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        y;
+        start       (0.00035 -0.0148725 0);
+        end         (0.00035 -0.006402500 0);
+    }    
+    inlet1D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        y;
+        start       (0.00851 -0.0148725 0);
+        end         (0.00851 -0.006402500 0);
+    }
+    inlet2D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        y;
+        start       (0.01702 -0.0148725 0);
+        end         (0.01702 -0.006402500 0);
+    }
+    inlet3D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        y;
+        start       (0.02553 -0.0148725 0);
+        end         (0.02553 -0.006402500 0);
+    }
+    inlet5D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        y;
+        start       (0.04251 -0.0148725 0);
+        end         (0.04251 -0.006402500 0);
+    }   
+    outlet0D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.00035 0);
+        end         (-0.006402500 0.00035 0);
+    }
+    outlet02D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.001702 0);
+        end         (-0.006402500 0.001702 0);
+    }
+    outlet06D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.00516 0);
+        end         (-0.006402500 0.00516 0);
+    }
+    outlet1D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.00851 0);
+        end         (-0.006402500 0.00851 0);
+    }
+    outlet2D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.01702 0);
+        end         (-0.006402500 0.01702 0);
+    }
+    outlet3D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.02553 0);
+        end         (-0.006402500 0.02553 0);
+    }
+    outlet4D
+    {
+        type        midPoint; // midPointAndFace;
+        axis        x;
+        start       (-0.0148725 0.03404 0);
+        end         (-0.006402500 0.03404 0);
+    }
+    outlet5D
+    {
+        type        midPoint; // midPointAndFace; // uniform; // face; 
+        axis        x;
+        start       (-0.0148725 0.04180 0);
+        end         (-0.006402500 0.04180 0);
+    }
+    outlet0Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.00035 0.004235);
+        end        (-0.0106375 0.00035 -0.004235);
+    }
+    outlet02Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.001702 0.004235);
+        end        (-0.0106375 0.001702 -0.004235);
+    }
+    outlet06Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.00516 0.004235);
+        end        (-0.0106375 0.00516 -0.004235);
+    }
+    outlet1Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.00851 0.004235);
+        end        (-0.0106375 0.00851 -0.004235);
+    }
+    outlet2Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.01702 0.004235);
+        end        (-0.0106375 0.01702 -0.004235);
+    }
+    outlet3Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.02553 0.004235);
+        end        (-0.0106375 0.02553 -0.004235);
+    }
+    outlet4Dtrans
+    {
+        type        midPoint; // midPointAndFace;
+        axis        z;
+        start      (-0.0106375 0.03404 0.004235);
+        end        (-0.0106375 0.03404 -0.004235);
+    }
+    outlet5Dtrans
+    {
+        type        midPoint; // midPointAndFace; // uniform; // face; 
+        axis        z;
+        start      (-0.0106375 0.04180 0.004235);
+        end        (-0.0106375 0.04180 -0.004235);
+    }    
+    outletCenterLine
+    {
+        type        midPoint; // lineCellFace; // uniform; // face; 
+        axis        distance;
+        start       (-0.0106375 0.00035 0);
+        end         (-0.0106375 0.0444649 0);
+    }
+    inletCenterLine
+    {
+        type        midPoint; // lineCellFace; // uniform; // face; 
+        axis        distance;
+        start       (0.042464900000000 -0.0106375 0);
+        end         (0.00035 -0.0106375 0);
+    }    

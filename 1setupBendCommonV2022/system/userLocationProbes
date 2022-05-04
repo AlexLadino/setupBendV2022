@@ -1,0 +1,5 @@
+      probeLocations
+      (
+         (-0.0072335 0.00 0.00) // Fig 9. Rutten 2001 r/D = -0.4(inner side) bend exit
+         (-0.0097865 0.00 0.00) // Fig 9. Rutten 2001 r/D = -0.1(inner side) bend exit
+      );

@@ -8,7 +8,7 @@
 
 // controlDict.tke
 
-valEndTimeTKE                 0.6; // 0.01 transient 0.02 LPT 
+valEndTimeTKE                 1.0; // 0.01 transient 0.02 LPT 
 valDeltaTTKE                  1.0e-6;
 valWriteIntervalTKE           0.004;
 valAdjustTimeStepTKE          yes;

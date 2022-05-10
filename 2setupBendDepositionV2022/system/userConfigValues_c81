@@ -10,9 +10,9 @@
 valEndTimeTKE                 0.34; // 0.01 transient 0.02 LPT 
 valDeltaTTKE                  5.0e-7;
 valWriteIntervalTKE           0.001;
-valAdjustTimeStepTKE          yes;
-valMaxCoTKE                   1.5;  // 1.5 LPT - 2.0 TKE
-valMaxDeltaTTKE               5e-6;
+valAdjustTimeStepTKE          no;
+valMaxCoTKE                   0.6;  // 1.5 LPT - 2.0 TKE
+valMaxDeltaTTKE               1e-5;
 
 // g file
 valGravity                    (0 0 0);
@@ -20,7 +20,7 @@ valGravity                    (0 0 0);
 // injectionModel
 valParcelsPerSecond           100000;
 valDuration                   1e-5;
-valSOI                        0.0464396;
+valSOI                        0.07000311;
 
 // Constant properties
 valRho0                       895;

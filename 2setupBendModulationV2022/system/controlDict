@@ -77,12 +77,12 @@ functions
       // Para que los cambian en tiempo de ejecucion se hagan se debe modificar
       // en los includes y luego modificar con espacio y guardar el controlDict
       #include "secondaryFields1"
+      #include "integralDissipation1"
+      #include "fieldAverage1"
       #include "monitorProbes1"
-      #include "monitorForces1"
-      #include "integralDissipation1"            
+      #include "monitorForces1"           
       #include "monitorTurbulenceCriterion"
       #include "monitorSamples1"      
      	#include "monitorSurfaces1"
       #include "monitorSamplesTKEConvectionTKEDissipationTKE"
-      #include "fieldAverage1"
 }
